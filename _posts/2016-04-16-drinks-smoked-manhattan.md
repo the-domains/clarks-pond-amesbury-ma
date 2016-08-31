@@ -1,10 +1,9 @@
 ---
-datePublished: '2016-08-25T16:17:37.627Z'
+datePublished: '2016-08-29T14:24:53.246Z'
 sourcePath: _posts/2016-04-16-drinks-smoked-manhattan.md
 inFeed: true
-isBasedOnUrl: 'http://wildernesscollective.com/drinks-smoked-manhattan/'
 authors: []
-hasPage: false
+hasPage: true
 keywords:
   - smoke
   - flask
@@ -20,7 +19,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-08-25T16:17:37.324Z'
+dateModified: '2016-08-29T14:24:52.517Z'
 title: 'Drinks: Smoked Manhattan'
 app_links: []
 publisher:
@@ -36,6 +35,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: drinks-smoked-manhattan/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
